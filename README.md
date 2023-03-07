@@ -1,4 +1,3 @@
-# ggplot `theme()`
 ## `element_text()`
 ```r
 element_text(
@@ -14,5 +13,18 @@ element_text(
     margin = NULL,
     debug = NULL,
     inherit.blank = FALSE
+)
+```
+
+## `element_rect()`
+```r
+element_rect(
+        fill = NULL,
+        colour = NULL,
+        linewidth = NULL,
+        linetype = NULL,
+        color = NULL,
+        inherit.blank = FALSE,
+        size = deprecated()
 )
 ```
