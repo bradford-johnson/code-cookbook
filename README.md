@@ -6,18 +6,18 @@ margin(t = 0, r = 0, b = 0, l = 0, unit = "mm")
 ## `element_text()`
 ```r
 element_text(
-    family = NULL,
-    face = NULL,
-    colour = NULL,
-    size = NULL,
-    hjust = NULL,
-    vjust = NULL,
-    angle = NULL,
-    lineheight = NULL,
-    color = NULL,
-    margin = NULL,
-    debug = NULL,
-    inherit.blank = FALSE
+        family = NULL,
+        face = NULL,
+        colour = NULL,
+        size = NULL,
+        hjust = NULL,
+        vjust = NULL,
+        angle = NULL,
+        lineheight = NULL,
+        color = NULL,
+        margin = NULL,
+        debug = NULL,
+        inherit.blank = FALSE
 )
 ```
 
