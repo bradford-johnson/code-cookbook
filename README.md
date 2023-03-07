@@ -3,6 +3,11 @@
 margin(t = 0, r = 0, b = 0, l = 0, unit = "mm")
 ```
 
+## `element_blank()`
+```r
+element_blank()
+```
+
 ## `element_text()`
 ```r
 element_text(
