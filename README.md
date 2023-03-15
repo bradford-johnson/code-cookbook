@@ -1,3 +1,9 @@
+# Notes
+- Make vars for elements
+  - size
+  - color
+  - font
+  - etc.
 ## `margin()`
 ```r
 margin(t = 0, r = 0, b = 0, l = 0, unit = "mm")
