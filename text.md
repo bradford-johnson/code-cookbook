@@ -1,8 +1,8 @@
 ## Packages
 ```r
 # load packages
-library(showtext)
-library(htmltools)
+pacman::p_load(showtext,
+               htmltools)
 
 showtext_auto()
 ```
