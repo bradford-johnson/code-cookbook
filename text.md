@@ -19,3 +19,11 @@ font_1 <- ""
 font_add_google(name = "", family = "")
 font_2 <- ""
 ```
+
+## Load Colors
+```r
+bg_color <- "#"
+title_color <- "#"
+text_color_1 <- "#"
+text_color_2 <- "#"
+```
